@@ -1,6 +1,6 @@
 ## I'm a undergraduate CS Student
 
-- 🌱 I’m currently learning everything 🤣
+- 🎈 I’m currently learning everything 🤣
 - 💡 Just started a blog 📙
 - 🎉 Oh it’s not a bug – it’s an undocumented feature ✨
 
@@ -34,7 +34,7 @@
 <br />
 <br />
 
-[website]: https://0x0bites.xyz
+[website]: https://0x0bites.xyz/contact
 [twitter]: https://twitter.com/SRestemis
 [linkedin]: https://www.linkedin.com/in/stelios-restemis-969a6319b/
 
