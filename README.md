@@ -41,3 +41,7 @@
 [website]: https://0x0bites.xyzm
 [twitter]: https://twitter.com/SRestemis
 [linkedin]: https://www.linkedin.com/in/stelios-restemis-969a6319b/
+
+---
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=restylianos&count_private=true&show_icons=true&theme=onedark)
