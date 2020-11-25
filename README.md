@@ -34,7 +34,7 @@
 <br />
 <br />
 
-[website]: https://0x0bites.xyzm
+[website]: https://0x0bites.xyz
 [twitter]: https://twitter.com/SRestemis
 [linkedin]: https://www.linkedin.com/in/stelios-restemis-969a6319b/
 
