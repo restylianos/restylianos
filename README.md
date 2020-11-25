@@ -1,5 +1,7 @@
 ### Hi there, I'm Stelios - aka [Lizzli][0x0bites.xyz] 👋
 
+[![Website]](https://0x0bites.xyz)
+
 ## I'm a undergraduate CS Student
 
 - 🌱 I’m currently learning everything 🤣
