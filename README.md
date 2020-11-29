@@ -1,4 +1,4 @@
-## I'm a undergraduate CS Student
+## I'm an undergraduate CS Student
 
 - 🎈 I’m currently learning everything 🤣
 - 💡 Just started a blog 📙
