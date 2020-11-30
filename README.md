@@ -1,8 +1,13 @@
 ## I'm an undergraduate CS Student
 
 - 🎈 I’m currently learning everything 🤣
-- 💡 Just started a blog 📙
+- 💡 Just started a blog [0x0bites.xyz](https://0x0bites.xyz/)📙
 - 🎉 Oh it’s not a bug – it’s an undocumented feature ✨
+
+### Projects:
+Meme generator : [React Meme Generator](https://www.memegen.fun/)
+
+
 
 ### Connect with me:
 
