@@ -5,8 +5,8 @@
 - 🎉 Oh it’s not a bug – it’s an undocumented feature ✨
 
 ### Projects:
-Meme generator : [React Meme Generator](https://www.memegen.fun/)
-React + Unsplash API : [React Unsplash](https://5fe20b011c3c2a20ee3370b2--fervent-elion-027582.netlify.app/)
+- Meme generator : [React Meme Generator](https://www.memegen.fun/)
+- React + Unsplash API : [React Unsplash](https://5fe20b011c3c2a20ee3370b2--fervent-elion-027582.netlify.app/)
 
 
 ### Connect with me:
