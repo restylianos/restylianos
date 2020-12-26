@@ -7,7 +7,7 @@
 ### Projects:
 - Meme generator : [React Meme Generator](https://www.memegen.fun/)
 - React + Unsplash API : [React Unsplash](https://5fe20b011c3c2a20ee3370b2--fervent-elion-027582.netlify.app/)
-- React + Youtube API : [Youtube Clone](zealous-cray-38f2da.netlify.app/)
+- React + Youtube API : [Youtube Clone](https://zealous-cray-38f2da.netlify.app/)
 
 
 ### Connect with me:
