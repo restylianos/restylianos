@@ -1,7 +1,7 @@
 ## I'm an undergraduate CS Student
 
-- 🎈 I’m currently learning everything 🤣
-- 💡 Just started a blog [0x0bites.xyz](https://0x0bites.xyz/)📙
+- 🎈 I’m currently learning everything 
+- 💡 Just started a blog [0x0bites.xyz](https://0x0bites.xyz/)
 - 🎉 Oh it’s not a bug – it’s an undocumented feature ✨
 
 ### Projects:
